@@ -1,0 +1,14 @@
+export const theme = {
+  COLORS: {
+    BACKGROUND:"#312E38",
+    BACKGROUND_CLEAN:"#262529",
+    FONT_PINK:"#FF859B",
+    FONT_GREY_WHITE:"#262529",
+    FONT_GREY: "#CAC4CF",
+    FONT_PLACEHOLDER:"#948F99",
+    FONT_WHITE:"#FFFFFF",
+    FULL_BLACK:"#000000",
+    BACKGROUND_LIST: "#ff859b0d"
+
+  }
+}
